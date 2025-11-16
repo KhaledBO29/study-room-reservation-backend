@@ -79,14 +79,18 @@ flowchart LR
 ## 🖼️ Diagramas
 > Versiones en alta resolución incluidas en el repositorio de esta conversación. Actualiza rutas a `docs/` en tu repo.
 
-- **Diagrama de Clases**  
-  ![Diagrama de Clases](sandbox:/mnt/data/Diagrama%20de%20Clases%20Dise%C3%B1o%20de%20Software.jpg)
+- **Diagrama de Clases**
+
+ ![Diagrama de Clases Diseño de Software](https://github.com/user-attachments/assets/c7321185-5a9f-4815-8a29-e5652036b4b6)
 
 - **Diagrama de Componentes**  
-  ![Diagrama de Componentes](sandbox:/mnt/data/Diagrama%20de%20componetes%20Dise%C3%B1o%20de%20Software..jpg)
+
+![Diagrama de componetes Diseño de Software](https://github.com/user-attachments/assets/f506d6a4-d482-47d6-bfe7-fdbeb80cf2f7)
 
 - **Diagrama de Contexto**  
-  ![Diagrama de Contexto](sandbox:/mnt/data/Context%20Diagram%20Template.jpg)
+
+![Context Diagram Template](https://github.com/user-attachments/assets/dd5d5f3e-bcd7-49fb-8b38-838912092bbf)
+
 
 ---
 
